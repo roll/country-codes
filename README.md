@@ -1,3 +1,7 @@
+# country-codes
+
+[![Goodtables](http://staging.goodtables.io/badge/github/roll/country-codes.svg)](http://staging.goodtables.io/github/repo/roll/coutry-codes)
+
 Comprehensive country code information, including ISO 3166 codes, ITU dialing
 codes, ISO 4217 currency codes, and many others. Provided as a [Simple Data
 Format Data Package](http://dataprotocols.readthedocs.io/en/latest/simple-data-format.html).
