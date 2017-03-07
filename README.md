@@ -1,5 +1,4 @@
 # country-codes
-
 [![Goodtables](http://staging.goodtables.io/badge/github/roll/country-codes.svg)](http://staging.goodtables.io/github/repo/roll/coutry-codes)
 
 Comprehensive country code information, including ISO 3166 codes, ITU dialing
